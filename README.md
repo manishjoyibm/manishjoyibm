@@ -35,25 +35,3 @@ or give some ♥ on [mail](mailto:manishjoy.mj@gmail.com?subject=Discussion%20ab
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=manishjoy&label=Visit%20Counter&labelColor=%23d9e3f0&countColor=%23697689)](https://visitorbadge.io/status?path=manishjoy)
 
-
-
-
-
-Manish Kumar<br>
-Swathi Ande<br>
-Varsha Dave<br>
-Anshika Dhingra<br>
-Mahesh Gurikani<br>
-Deepthi Kumar<br>
-Sanjay Kushawaha<br>
-Reena Madamwar<br>
-Priji A Pandey<br>
-Payal Raghuwanshi<br>
-Sreevalli Ramreddy<br>
-Dhanush Ravikumara<br>
-Arunima Roy<br>
-Saikumar Shaganti<br>
-Jaya Sharma<br>
-Ratnesh Singh<br>
-Vaibhav Sanap<br>
-Venkata S Musti

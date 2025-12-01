@@ -39,21 +39,21 @@ or give some ♥ on [mail](mailto:manishjoy.mj@gmail.com?subject=Discussion%20ab
 
 
 
-Manish Kumar
-Swathi Ande
-Varsha Dave
-Anshika Dhingra
-Mahesh Gurikani
-Deepthi Kumar
-Sanjay Kushawaha
-Reena Madamwar
-Priji A Pandey
-Payal Raghuwanshi
-Sreevalli Ramreddy
-Dhanush Ravikumara
-Arunima Roy
-Saikumar Shaganti
-Jaya Sharma
-Ratnesh Singh
-Vaibhav Sanap
+Manish Kumar<br>
+Swathi Ande<br>
+Varsha Dave<br>
+Anshika Dhingra<br>
+Mahesh Gurikani<br>
+Deepthi Kumar<br>
+Sanjay Kushawaha<br>
+Reena Madamwar<br>
+Priji A Pandey<br>
+Payal Raghuwanshi<br>
+Sreevalli Ramreddy<br>
+Dhanush Ravikumara<br>
+Arunima Roy<br>
+Saikumar Shaganti<br>
+Jaya Sharma<br>
+Ratnesh Singh<br>
+Vaibhav Sanap<br>
 Venkata S Musti

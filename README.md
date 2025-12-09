@@ -34,22 +34,3 @@ or give some ♥ on [mail](mailto:manishjoy.mj@gmail.com?subject=Discussion%20ab
 
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=manishjoy&label=Visit%20Counter&labelColor=%23d9e3f0&countColor=%23697689)](https://visitorbadge.io/status?path=manishjoy)
-
-'db' => [
-        'table_prefix' => '',
-        'connection' => [
-            'default' => [
-                'host' => '127.0.0.1',
-                'dbname' => 'm248',
-                'username' => 'manishjoy',
-                'password' => 'root@123',
-                'model' => 'mysql4',
-                'engine' => 'innodb',
-                'initStatements' => 'SET NAMES utf8;',
-                'active' => '1',
-                'driver_options' => [
-                    1014 => false
-                ]
-            ]
-        ]
-    ],
